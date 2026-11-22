@@ -1,0 +1,17 @@
+{
+  "name": "fractal",
+  "description": "La memoria a lungo termine di fractal per Claude Code e Grok Bot: il server MCP (accesso con il tuo account, OAuth), la skill che dice quando ricordare e cosa salvare, e la memoria del progetto all'inizio di ogni sessione.",
+  "version": "0.2.0",
+  "author": {
+    "name": "fractal"
+  },
+  "homepage": "https://getfractal.it",
+  "keywords": [
+    "memory",
+    "mcp",
+    "grok-bot",
+    "claude-code"
+  ],
+  "repository": "https://github.com/fractal-memory/fractal-plugin",
+  "license": "MIT"
+}

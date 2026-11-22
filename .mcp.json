@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "fractal": {
+      "type": "http",
+      "url": "https://getfractal.it/mcp"
+    }
+  }
+}
